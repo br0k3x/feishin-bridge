@@ -5,7 +5,6 @@ An API that communicates with Feishin's Remote server (togglable in Settings > A
 Leave username and password fields blank. 
 
 ![Static Badge](https://img.shields.io/badge/notice-8A2BE2)
-
 A Rainmeter skin is provided. Finally, a Rainmeter skin that actually supports Feishin...
 
 ## How to set-up
