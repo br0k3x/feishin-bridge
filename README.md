@@ -22,6 +22,9 @@ ServiceManager
 ## Rainmeter skin screenshots
 <img src="screenshots/1.png" alt="first" title="first" align="left" />
 <img src="screenshots/2.png" alt="first" title="first" align="left" />  
+
+
+      
 ## Usage
 The API will usually run at port 3000. Only basic information about the currently playing song is provided, but more will come soon.
 ## Contributing
