@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/iiPythonx/feishin/refs/heads/restart/assets/icons/512x512.png" alt="logo" title="feishin" align="right" height="60px" />
 
 # Feishin Bridge
+[![Node.js CI](https://github.com/br0k3x/feishin-bridge/actions/workflows/node.js.yml/badge.svg)](https://github.com/br0k3x/feishin-bridge/actions/workflows/node.js.yml)
 
 An API that communicates with Feishin's Remote server (togglable in Settings > Advanced)  
 The username and password of the remote server should be blank.  
 Icon from iiPythonx's Feishin fork ([check it out, it's really good!](https://github.com/iiPythonx/feishin))
 
-![Static Badge](https://img.shields.io/badge/notice-8A2BE2)
 A Rainmeter skin is provided to display the current song!
 ## How to set-up
 
