@@ -19,17 +19,13 @@ cd feishin-bridge
 ServiceManager
 ```
 1. Install the service, 2. Install the Rainmeter skin (optional)
-## Rainmeter skin screenshots
-<img src="screenshots/1.png" alt="first" title="first" align="left" />
-<img src="screenshots/2.png" alt="first" title="first" align="left" />  
-
-
-      
 ## Usage
 The API will usually run at port 3000. Only basic information about the currently playing song is provided, but more will come soon.
 ## Contributing
 Feel free to contribute! Issues can be reported [here](https://github.com/br0k3x/feishin-bridge/issues) and PRs can be viewed [here](https://github.com/br0k3x/feishin-bridge/pulls)
-
+## Rainmeter skin screenshots
+<img src="screenshots/1.png" alt="first" title="first" align="left" />
+<img src="screenshots/2.png" alt="second" title="second" align="left" />  
 
 
 
