@@ -4,7 +4,7 @@
   "description": "API and Feishin remote communication",
   "main": "main.js",
   "scripts": {
-    "test": "node main.js"
+    "test": "echo \"Test script!\" && exit 0"
   },
   "keywords": [],
   "author": "br0kE",
