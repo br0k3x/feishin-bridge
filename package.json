@@ -1,14 +1,14 @@
 {
   "name": "feishin-bridge",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.2",
+  "description": "API and Feishin remote communication",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node main.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "br0kE",
+  "license": "GPL-3.0-only",
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0",
