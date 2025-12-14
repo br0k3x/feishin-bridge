@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/iiPythonx/feishin/refs/heads/restart/assets/icons/512x512.png" alt="logo" title="feishin" align="right" height="60px" />
 
 # Feishin Bridge
-[![Node.js CI](https://github.com/br0k3x/feishin-bridge/actions/workflows/node.js.yml/badge.svg)](https://github.com/br0k3x/feishin-bridge/actions/workflows/node.js.yml)
-This project has been discontinued after I found out Rainmeter could do WebSockets. 💔  
+[![Node.js CI](https://github.com/br0k3x/feishin-bridge/actions/workflows/node.js.yml/badge.svg)](https://github.com/br0k3x/feishin-bridge/actions/workflows/node.js.yml)  
+This project has been discontinued after I found out Rainmeter could do WebSockets. 💔    
 You may use this for projects that can't use WebSockets though, this has most or all of the data.  
 An API that communicates with Feishin's Remote server (togglable in Settings > Advanced)  
 The username and password of the remote server should be blank.  
