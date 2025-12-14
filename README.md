@@ -2,7 +2,7 @@
 
 # Feishin Bridge
 [![Node.js CI](https://github.com/br0k3x/feishin-bridge/actions/workflows/node.js.yml/badge.svg)](https://github.com/br0k3x/feishin-bridge/actions/workflows/node.js.yml)
-### Warning
+### Warning  
 This project has been discontinued after I found out Rainmeter could do WebSockets. 💔  
 You may use this for projects that can't use WebSockets though, this has most or all of the data.  
 -------------------------------------------------------------------
